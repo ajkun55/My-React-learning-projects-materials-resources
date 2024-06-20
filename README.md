@@ -1,8 +1,11 @@
-# React + Vite
+I learned React from these projects, they are efficient to improve your skills in React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The projects are built with Vite, mainly functional components, the props and state characters of React are fully presented.
 
-Currently, two official plugins are available:
+Also contains example and usage of useState(), useEffect(), useContext(), useRef() hooks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Start the project after have the files and change directory, then 
+
+```
+npm run dev
+```
